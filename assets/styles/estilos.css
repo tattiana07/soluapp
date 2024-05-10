@@ -1,0 +1,5 @@
+.fondo{
+    background-image: url("../img/banner1.jpg");
+    padding: 25%;
+    background-attachment: fixed;
+}
